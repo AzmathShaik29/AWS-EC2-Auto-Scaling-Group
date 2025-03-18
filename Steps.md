@@ -117,4 +117,4 @@ In the EC2 - Auto Scaling Group - Select the created ASG and check the "Instance
 ![image](https://github.com/user-attachments/assets/acff314a-7e57-4da5-b60a-8c5c35250751)
 
 
-We are Done! Happy Learning! :) ![image](https://github.com/user-attachments/assets/e9981724-a81c-42e6-a6ea-b5ef2c60ec93)
+We are Done! Happy Learning!
