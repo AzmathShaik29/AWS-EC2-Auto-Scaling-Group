@@ -99,7 +99,7 @@ Step 4:
 - Min: 1, Max: 3, Desired: 2
 - If you want, you can choose the Scaling policy like "whenever the CPU utilization went to 75% an instance has to create"
 
-Setp 5:
+Step 5:
 - Review all the steps and create ASG
 
 Go to Load Balancer and choose the created LB and copy paste the dns name
